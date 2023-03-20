@@ -1,0 +1,10 @@
+{
+  "label": "设计心理",
+  "position": 80,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "HRM 人力资源管理",
+  "position": 45,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "OA 办公自动化",
+  "position": 55,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

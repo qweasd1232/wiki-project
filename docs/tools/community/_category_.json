@@ -1,0 +1,10 @@
+{
+  "label": "社区学习",
+  "position": 30,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

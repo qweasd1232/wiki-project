@@ -1,0 +1,10 @@
+{
+  "label": "加工能力",
+  "position": 90,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

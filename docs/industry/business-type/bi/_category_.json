@@ -1,0 +1,10 @@
+{
+  "label": "BI 数据分析",
+  "position": 40,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "BI 数据分析的页面列表"
+  }
+}

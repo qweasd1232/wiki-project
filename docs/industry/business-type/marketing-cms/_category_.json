@@ -1,0 +1,10 @@
+{
+  "label": "营销平台/内容管理",
+  "position": 40,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

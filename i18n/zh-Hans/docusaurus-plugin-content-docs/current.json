@@ -1,0 +1,1430 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.GuideSidebar.category.必看指南": {
+    "message": "必看指南",
+    "description": "The label for category 必看指南 in sidebar GuideSidebar"
+  },
+  "sidebar.GuideSidebar.category.必看指南.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 必看指南 in sidebar GuideSidebar"
+  },
+  "sidebar.GuideSidebar.category.文档编辑指南": {
+    "message": "文档编辑指南",
+    "description": "The label for category 文档编辑指南 in sidebar GuideSidebar"
+  },
+  "sidebar.GuideSidebar.category.文档编辑指南.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 文档编辑指南 in sidebar GuideSidebar"
+  },
+  "sidebar.GuideSidebar.category.文档样式指南": {
+    "message": "文档样式指南",
+    "description": "The label for category 文档样式指南 in sidebar GuideSidebar"
+  },
+  "sidebar.GuideSidebar.category.文档样式指南.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 文档样式指南 in sidebar GuideSidebar"
+  },
+  "sidebar.GuideSidebar.category.关于知识库": {
+    "message": "关于知识库",
+    "description": "The label for category 关于知识库 in sidebar GuideSidebar"
+  },
+  "sidebar.GuideSidebar.category.关于知识库.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 关于知识库 in sidebar GuideSidebar"
+  },
+  "sidebar.ToolsSidebar.category.通用方法论": {
+    "message": "通用方法论",
+    "description": "The label for category 通用方法论 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.通用方法论.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 通用方法论 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.认知力": {
+    "message": "认知力",
+    "description": "The label for category 认知力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.认知力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 认知力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.学习力": {
+    "message": "学习力",
+    "description": "The label for category 学习力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.学习力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 学习力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.思考力": {
+    "message": "思考力",
+    "description": "The label for category 思考力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.思考力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 思考力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.创造力": {
+    "message": "创造力",
+    "description": "The label for category 创造力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.创造力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 创造力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.设计力": {
+    "message": "设计力",
+    "description": "The label for category 设计力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.设计力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 设计力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.共情力": {
+    "message": "共情力",
+    "description": "The label for category 共情力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.共情力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 共情力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.故事力": {
+    "message": "故事力",
+    "description": "The label for category 故事力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.故事力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 故事力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.领导力": {
+    "message": "领导力",
+    "description": "The label for category 领导力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.领导力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 领导力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.整合力": {
+    "message": "整合力",
+    "description": "The label for category 整合力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.整合力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 整合力 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.社区学习": {
+    "message": "社区学习",
+    "description": "The label for category 社区学习 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.社区学习.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 社区学习 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.必备工具": {
+    "message": "必备工具",
+    "description": "The label for category 必备工具 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.必备工具.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 必备工具 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.测试工具": {
+    "message": "测试工具",
+    "description": "The label for category 测试工具 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.测试工具.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 测试工具 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.资源下载": {
+    "message": "资源下载",
+    "description": "The label for category 资源下载 in sidebar ToolsSidebar"
+  },
+  "sidebar.ToolsSidebar.category.资源下载.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 资源下载 in sidebar ToolsSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.大消费": {
+    "message": "大消费",
+    "description": "The label for category 大消费 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.大消费.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 大消费 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.电商": {
+    "message": "电商",
+    "description": "The label for category 电商 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.电商.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 电商 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.家居": {
+    "message": "家居",
+    "description": "The label for category 家居 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.家居.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 家居 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.零售": {
+    "message": "零售",
+    "description": "The label for category 零售 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.零售.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 零售 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.生鲜": {
+    "message": "生鲜",
+    "description": "The label for category 生鲜 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.生鲜.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 生鲜 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.饮料": {
+    "message": "饮料",
+    "description": "The label for category 饮料 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.饮料.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 饮料 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.传统行业": {
+    "message": "传统行业",
+    "description": "The label for category 传统行业 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.传统行业.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 传统行业 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.电力": {
+    "message": "电力",
+    "description": "The label for category 电力 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.电力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 电力 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.化工": {
+    "message": "化工",
+    "description": "The label for category 化工 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.化工.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 化工 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.钢铁": {
+    "message": "钢铁",
+    "description": "The label for category 钢铁 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.钢铁.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 钢铁 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.农业": {
+    "message": "农业",
+    "description": "The label for category 农业 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.农业.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 农业 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.家电": {
+    "message": "家电",
+    "description": "The label for category 家电 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.家电.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 家电 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.服装纺织": {
+    "message": "服装纺织",
+    "description": "The label for category 服装纺织 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.服装纺织.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 服装纺织 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.有色金属": {
+    "message": "有色金属",
+    "description": "The label for category 有色金属 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.有色金属.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 有色金属 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.先进制造": {
+    "message": "先进制造",
+    "description": "The label for category 先进制造 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.先进制造.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 先进制造 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.半导体": {
+    "message": "半导体",
+    "description": "The label for category 半导体 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.半导体.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 半导体 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.五金机械": {
+    "message": "五金机械",
+    "description": "The label for category 五金机械 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.五金机械.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 五金机械 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.电子元件": {
+    "message": "电子元件",
+    "description": "The label for category 电子元件 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.电子元件.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 电子元件 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.仪器仪表": {
+    "message": "仪器仪表",
+    "description": "The label for category 仪器仪表 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.仪器仪表.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 仪器仪表 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.电机电控": {
+    "message": "电机电控",
+    "description": "The label for category 电机电控 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.电机电控.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 电机电控 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.装备机械": {
+    "message": "装备机械",
+    "description": "The label for category 装备机械 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.装备机械.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 装备机械 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.智能硬件": {
+    "message": "智能硬件",
+    "description": "The label for category 智能硬件 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.BusinessAnalysisSidebar.category.智能硬件.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 智能硬件 in sidebar BusinessAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.需求收集": {
+    "message": "需求收集",
+    "description": "The label for category 需求收集 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.需求收集.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 需求收集 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.用户调研": {
+    "message": "用户调研",
+    "description": "The label for category 用户调研 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.用户调研.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 用户调研 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.用户分析": {
+    "message": "用户分析",
+    "description": "The label for category 用户分析 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.用户分析.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 用户分析 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.需求理解": {
+    "message": "需求理解",
+    "description": "The label for category 需求理解 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.需求理解.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 需求理解 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.理解业务": {
+    "message": "理解业务",
+    "description": "The label for category 理解业务 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.理解业务.link.generated-index.description": {
+    "message": "每一个B端设计师都应该是半个行业专家",
+    "description": "The generated-index page description for category 理解业务 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.场景与价值": {
+    "message": "场景与价值",
+    "description": "The label for category 场景与价值 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.场景与价值.link.generated-index.description": {
+    "message": "最重要的能力，是提出一个好的解决方案",
+    "description": "The generated-index page description for category 场景与价值 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.需求整理": {
+    "message": "需求整理",
+    "description": "The label for category 需求整理 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.需求整理.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 需求整理 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.需求落地": {
+    "message": "需求落地",
+    "description": "The label for category 需求落地 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.RequirementAnalysisSidebar.category.需求落地.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 需求落地 in sidebar RequirementAnalysisSidebar"
+  },
+  "sidebar.IndustrySidebar.category.业务维度": {
+    "message": "业务维度",
+    "description": "The label for category 业务维度 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.业务维度.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 业务维度 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.在线商城": {
+    "message": "在线商城",
+    "description": "The label for category 在线商城 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.在线商城.link.generated-index.description": {
+    "message": "在线商城的页面列表",
+    "description": "The generated-index page description for category 在线商城 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.CRM 客户关系管理": {
+    "message": "CRM 客户关系管理",
+    "description": "The label for category CRM 客户关系管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.CRM 客户关系管理.link.generated-index.description": {
+    "message": "CRM 客户关系管理的页面列表",
+    "description": "The generated-index page description for category CRM 客户关系管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.低代码开发平台": {
+    "message": "低代码开发平台",
+    "description": "The label for category 低代码开发平台 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.低代码开发平台.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 低代码开发平台 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.云平台": {
+    "message": "云平台",
+    "description": "The label for category 云平台 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.云平台.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 云平台 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.ERP 企业资源管理": {
+    "message": "ERP 企业资源管理",
+    "description": "The label for category ERP 企业资源管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.ERP 企业资源管理.link.generated-index.description": {
+    "message": "ERP 企业资源管理的页面列表",
+    "description": "The generated-index page description for category ERP 企业资源管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.SCM 供应链": {
+    "message": "SCM 供应链",
+    "description": "The label for category SCM 供应链 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.SCM 供应链.link.generated-index.description": {
+    "message": "SCM 供应链的页面列表",
+    "description": "The generated-index page description for category SCM 供应链 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.BI 数据分析": {
+    "message": "BI 数据分析",
+    "description": "The label for category BI 数据分析 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.BI 数据分析.link.generated-index.description": {
+    "message": "BI 数据分析的页面列表",
+    "description": "The generated-index page description for category BI 数据分析 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.营销平台/内容管理": {
+    "message": "营销平台/内容管理",
+    "description": "The label for category 营销平台/内容管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.营销平台/内容管理.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 营销平台/内容管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.HRM 人力资源管理": {
+    "message": "HRM 人力资源管理",
+    "description": "The label for category HRM 人力资源管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.HRM 人力资源管理.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category HRM 人力资源管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.CEM 客户体验管理": {
+    "message": "CEM 客户体验管理",
+    "description": "The label for category CEM 客户体验管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.CEM 客户体验管理.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category CEM 客户体验管理 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.OA 办公自动化": {
+    "message": "OA 办公自动化",
+    "description": "The label for category OA 办公自动化 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.OA 办公自动化.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category OA 办公自动化 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.文档协作": {
+    "message": "文档协作",
+    "description": "The label for category 文档协作 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.文档协作.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 文档协作 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.智能客服": {
+    "message": "智能客服",
+    "description": "The label for category 智能客服 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.智能客服.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 智能客服 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.安全合规": {
+    "message": "安全合规",
+    "description": "The label for category 安全合规 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.安全合规.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 安全合规 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.MES生产信息化": {
+    "message": "MES生产信息化",
+    "description": "The label for category MES生产信息化 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.MES生产信息化.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category MES生产信息化 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.PLM产品生命周期": {
+    "message": "PLM产品生命周期",
+    "description": "The label for category PLM产品生命周期 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.PLM产品生命周期.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category PLM产品生命周期 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.行业维度": {
+    "message": "行业维度",
+    "description": "The label for category 行业维度 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.行业维度.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 行业维度 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.工业制造": {
+    "message": "工业制造",
+    "description": "The label for category 工业制造 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.工业制造.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 工业制造 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.电商": {
+    "message": "电商",
+    "description": "The label for category 电商 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.电商.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 电商 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.餐饮": {
+    "message": "餐饮",
+    "description": "The label for category 餐饮 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.餐饮.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 餐饮 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.医疗健康": {
+    "message": "医疗健康",
+    "description": "The label for category 医疗健康 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.医疗健康.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 医疗健康 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.物流仓储": {
+    "message": "物流仓储",
+    "description": "The label for category 物流仓储 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.物流仓储.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 物流仓储 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.票财税": {
+    "message": "票财税",
+    "description": "The label for category 票财税 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.票财税.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 票财税 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.广告投放": {
+    "message": "广告投放",
+    "description": "The label for category 广告投放 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.广告投放.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 广告投放 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.建筑地产": {
+    "message": "建筑地产",
+    "description": "The label for category 建筑地产 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.建筑地产.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 建筑地产 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.派单/售后": {
+    "message": "派单/售后",
+    "description": "The label for category 派单/售后 in sidebar IndustrySidebar"
+  },
+  "sidebar.IndustrySidebar.category.派单/售后.link.generated-index.description": {
+    "message": "页面列表",
+    "description": "The generated-index page description for category 派单/售后 in sidebar IndustrySidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.交互设计": {
+    "message": "交互设计",
+    "description": "The label for category 交互设计 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.交互设计.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 交互设计 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.视觉设计": {
+    "message": "视觉设计",
+    "description": "The label for category 视觉设计 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.视觉设计.link.generated-index.description": {
+    "message": "产出设计定稿图，进行可用性测试（包括专家测试及评估，快速反复可用性测试及评估等）。 每个产品都有各自独特的性格。这个阶段，需要视觉设计师在理解产品目标及交互框架的前提下，能够提炼产品性格，为产品进行设计定位并赋予情感。",
+    "description": "The generated-index page description for category 视觉设计 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计验证": {
+    "message": "设计验证",
+    "description": "The label for category 设计验证 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计验证.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 设计验证 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.需求评审": {
+    "message": "需求评审",
+    "description": "The label for category 需求评审 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.需求评审.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 需求评审 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计专题": {
+    "message": "设计专题",
+    "description": "The label for category 设计专题 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计专题.link.generated-index.description": {
+    "message": "针对不用业务和需求场景，给予一些设计和流程规范的参考性意见。",
+    "description": "The generated-index page description for category 设计专题 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.概念探索": {
+    "message": "概念探索",
+    "description": "The label for category 概念探索 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.概念探索.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 概念探索 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计总结": {
+    "message": "设计总结",
+    "description": "The label for category 设计总结 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计总结.link.generated-index.description": {
+    "message": "学习总结和提升自己。",
+    "description": "The generated-index page description for category 设计总结 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计控件": {
+    "message": "设计控件",
+    "description": "The label for category 设计控件 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计控件.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 设计控件 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计法则": {
+    "message": "设计法则",
+    "description": "The label for category 设计法则 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计法则.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 设计法则 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何影响对设计的认知": {
+    "message": "如何影响对设计的认知",
+    "description": "The label for category 如何影响对设计的认知 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何影响对设计的认知.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 如何影响对设计的认知 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何让设计易于接受": {
+    "message": "如何让设计易于接受",
+    "description": "The label for category 如何让设计易于接受 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何让设计易于接受.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 如何让设计易于接受 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何提高设计的易用性": {
+    "message": "如何提高设计的易用性",
+    "description": "The label for category 如何提高设计的易用性 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何提高设计的易用性.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 如何提高设计的易用性 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何提高设计的吸引力": {
+    "message": "如何提高设计的吸引力",
+    "description": "The label for category 如何提高设计的吸引力 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何提高设计的吸引力.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 如何提高设计的吸引力 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何做出更好的设计决策": {
+    "message": "如何做出更好的设计决策",
+    "description": "The label for category 如何做出更好的设计决策 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.如何做出更好的设计决策.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 如何做出更好的设计决策 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.法则专题": {
+    "message": "法则专题",
+    "description": "The label for category 法则专题 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.法则专题.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 法则专题 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计方法": {
+    "message": "设计方法",
+    "description": "The label for category 设计方法 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计方法.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 设计方法 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.模型观点": {
+    "message": "模型观点",
+    "description": "The label for category 模型观点 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.模型观点.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 模型观点 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.探索发现": {
+    "message": "探索发现",
+    "description": "The label for category 探索发现 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.探索发现.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 探索发现 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.目标定义": {
+    "message": "目标定义",
+    "description": "The label for category 目标定义 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.目标定义.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 目标定义 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.开发创意": {
+    "message": "开发创意",
+    "description": "The label for category 开发创意 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.开发创意.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 开发创意 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.评估决策": {
+    "message": "评估决策",
+    "description": "The label for category 评估决策 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.评估决策.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 评估决策 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.展示模拟": {
+    "message": "展示模拟",
+    "description": "The label for category 展示模拟 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.展示模拟.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 展示模拟 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计基础": {
+    "message": "设计基础",
+    "description": "The label for category 设计基础 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计基础.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 设计基础 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.认识色彩": {
+    "message": "认识色彩",
+    "description": "The label for category 认识色彩 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.认识色彩.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 认识色彩 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.配色方法": {
+    "message": "配色方法",
+    "description": "The label for category 配色方法 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.配色方法.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 配色方法 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.版式构图": {
+    "message": "版式构图",
+    "description": "The label for category 版式构图 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.版式构图.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 版式构图 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计心理": {
+    "message": "设计心理",
+    "description": "The label for category 设计心理 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计心理.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 设计心理 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何观察": {
+    "message": "人如何观察",
+    "description": "The label for category 人如何观察 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何观察.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 人如何观察 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何阅读": {
+    "message": "人如何阅读",
+    "description": "The label for category 人如何阅读 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何阅读.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 人如何阅读 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何思考": {
+    "message": "人如何思考",
+    "description": "The label for category 人如何思考 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何思考.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 人如何思考 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何记忆": {
+    "message": "人如何记忆",
+    "description": "The label for category 人如何记忆 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何记忆.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 人如何记忆 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何感知": {
+    "message": "人如何感知",
+    "description": "The label for category 人如何感知 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.人如何感知.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 人如何感知 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计职级": {
+    "message": "设计职级",
+    "description": "The label for category 设计职级 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementDesignSidebar.category.设计职级.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 设计职级 in sidebar RequirementDesignSidebar"
+  },
+  "sidebar.RequirementOutputSidebar.category.交付文档": {
+    "message": "交付文档",
+    "description": "The label for category 交付文档 in sidebar RequirementOutputSidebar"
+  },
+  "sidebar.RequirementOutputSidebar.category.交付文档.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 交付文档 in sidebar RequirementOutputSidebar"
+  },
+  "sidebar.RequirementOutputSidebar.category.需求排期": {
+    "message": "需求排期",
+    "description": "The label for category 需求排期 in sidebar RequirementOutputSidebar"
+  },
+  "sidebar.RequirementOutputSidebar.category.需求排期.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 需求排期 in sidebar RequirementOutputSidebar"
+  },
+  "sidebar.RequirementOutputSidebar.category.需求管理": {
+    "message": "需求管理",
+    "description": "The label for category 需求管理 in sidebar RequirementOutputSidebar"
+  },
+  "sidebar.RequirementOutputSidebar.category.需求管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 需求管理 in sidebar RequirementOutputSidebar"
+  },
+  "sidebar.DevelopSidebar.category.商城项目文档": {
+    "message": "商城项目文档",
+    "description": "The label for category 商城项目文档 in sidebar DevelopSidebar"
+  },
+  "sidebar.DevelopSidebar.category.商城项目文档.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 商城项目文档 in sidebar DevelopSidebar"
+  },
+  "sidebar.DevelopSidebar.category.Git 教程规范": {
+    "message": "Git 教程规范",
+    "description": "The label for category Git 教程规范 in sidebar DevelopSidebar"
+  },
+  "sidebar.DevelopSidebar.category.Git 教程规范.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category Git 教程规范 in sidebar DevelopSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试新手村": {
+    "message": "测试新手村",
+    "description": "The label for category 测试新手村 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试新手村.link.generated-index.description": {
+    "message": "测试新手指引",
+    "description": "The generated-index page description for category 测试新手村 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试规范": {
+    "message": "测试规范",
+    "description": "The label for category 测试规范 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试规范.link.generated-index.description": {
+    "message": "测试常用规范",
+    "description": "The generated-index page description for category 测试规范 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试流程": {
+    "message": "测试流程",
+    "description": "The label for category 测试流程 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试流程.link.generated-index.description": {
+    "message": "测试流程",
+    "description": "The generated-index page description for category 测试流程 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.项目问题&建议&作用": {
+    "message": "项目问题&建议&作用",
+    "description": "The label for category 项目问题&建议&作用 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.项目问题&建议&作用.link.generated-index.description": {
+    "message": "项目问题&建议&作用",
+    "description": "The generated-index page description for category 项目问题&建议&作用 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试知识库": {
+    "message": "测试知识库",
+    "description": "The label for category 测试知识库 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试知识库.link.generated-index.description": {
+    "message": "测试知识库",
+    "description": "The generated-index page description for category 测试知识库 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.功能测试知识库": {
+    "message": "功能测试知识库",
+    "description": "The label for category 功能测试知识库 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.功能测试知识库.link.generated-index.description": {
+    "message": "功能测试知识库",
+    "description": "The generated-index page description for category 功能测试知识库 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试用例": {
+    "message": "测试用例",
+    "description": "The label for category 测试用例 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试用例.link.generated-index.description": {
+    "message": "测试用例",
+    "description": "The generated-index page description for category 测试用例 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.业务知识": {
+    "message": "业务知识",
+    "description": "The label for category 业务知识 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.业务知识.link.generated-index.description": {
+    "message": "业务知识",
+    "description": "The generated-index page description for category 业务知识 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.接口测试知识库": {
+    "message": "接口测试知识库",
+    "description": "The label for category 接口测试知识库 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.接口测试知识库.link.generated-index.description": {
+    "message": "接口测试知识库",
+    "description": "The generated-index page description for category 接口测试知识库 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.接口基础知识": {
+    "message": "接口基础知识",
+    "description": "The label for category 接口基础知识 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.接口基础知识.link.generated-index.description": {
+    "message": "接口基础知识",
+    "description": "The generated-index page description for category 接口基础知识 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.自动化测试知识库": {
+    "message": "自动化测试知识库",
+    "description": "The label for category 自动化测试知识库 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.自动化测试知识库.link.generated-index.description": {
+    "message": "自动化测试知识库",
+    "description": "The generated-index page description for category 自动化测试知识库 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.性能测试": {
+    "message": "性能测试",
+    "description": "The label for category 性能测试 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.性能测试.link.generated-index.description": {
+    "message": "性能测试",
+    "description": "The generated-index page description for category 性能测试 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.jmeter": {
+    "message": "jmeter",
+    "description": "The label for category jmeter in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.jmeter.link.generated-index.description": {
+    "message": "从入门到精通",
+    "description": "The generated-index page description for category jmeter in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.性能监控": {
+    "message": "性能监控",
+    "description": "The label for category 性能监控 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.性能监控.link.generated-index.description": {
+    "message": "性能监控",
+    "description": "The generated-index page description for category 性能监控 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试乐园": {
+    "message": "测试乐园",
+    "description": "The label for category 测试乐园 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试乐园.link.generated-index.description": {
+    "message": "测试学习汇总&交流",
+    "description": "The generated-index page description for category 测试乐园 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试工具": {
+    "message": "测试工具",
+    "description": "The label for category 测试工具 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.测试工具.link.generated-index.description": {
+    "message": "测试工具",
+    "description": "The generated-index page description for category 测试工具 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.linux基础": {
+    "message": "linux基础",
+    "description": "The label for category linux基础 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.linux基础.link.generated-index.description": {
+    "message": "linux基础",
+    "description": "The generated-index page description for category linux基础 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.docker基础": {
+    "message": "docker基础",
+    "description": "The label for category docker基础 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.docker基础.link.generated-index.description": {
+    "message": "docker基础汇总",
+    "description": "The generated-index page description for category docker基础 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.产品验收": {
+    "message": "产品验收",
+    "description": "The label for category 产品验收 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.产品验收.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 产品验收 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.产品上线": {
+    "message": "产品上线",
+    "description": "The label for category 产品上线 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.AcceptanceTestingSidebar.category.产品上线.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 产品上线 in sidebar AcceptanceTestingSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.观察数据": {
+    "message": "观察数据",
+    "description": "The label for category 观察数据 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.观察数据.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 观察数据 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.数据指标": {
+    "message": "数据指标",
+    "description": "The label for category 数据指标 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.数据指标.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 数据指标 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.行业指标体系": {
+    "message": "行业指标体系",
+    "description": "The label for category 行业指标体系 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.行业指标体系.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category 行业指标体系 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.验证目标": {
+    "message": "验证目标",
+    "description": "The label for category 验证目标 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.验证目标.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 验证目标 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.持续改进": {
+    "message": "持续改进",
+    "description": "The label for category 持续改进 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.持续改进.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 持续改进 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.项目总结": {
+    "message": "项目总结",
+    "description": "The label for category 项目总结 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.项目总结.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 项目总结 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.产品现状走查": {
+    "message": "产品现状走查",
+    "description": "The label for category 产品现状走查 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.VerifyImproveSidebar.category.产品现状走查.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 产品现状走查 in sidebar VerifyImproveSidebar"
+  },
+  "sidebar.LinkSeeksSidebar.category.权限管理": {
+    "message": "权限管理",
+    "description": "The label for category 权限管理 in sidebar LinkSeeksSidebar"
+  },
+  "sidebar.LinkSeeksSidebar.category.权限管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 权限管理 in sidebar LinkSeeksSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.示例页面": {
+    "message": "示例页面",
+    "description": "The label for category 示例页面 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.示例页面.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 示例页面 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.首页能力": {
+    "message": "首页能力",
+    "description": "The label for category 首页能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.首页能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 首页能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.商品能力": {
+    "message": "商品能力",
+    "description": "The label for category 商品能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.商品能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 商品能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.品类及属性": {
+    "message": "品类及属性",
+    "description": "The label for category 品类及属性 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.品类及属性.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 品类及属性 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.品牌管理": {
+    "message": "品牌管理",
+    "description": "The label for category 品牌管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.品牌管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 品牌管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.待审核品牌": {
+    "message": "待审核品牌",
+    "description": "The label for category 待审核品牌 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.物料管理": {
+    "message": "物料管理",
+    "description": "The label for category 物料管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.物料管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 物料管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.供应商供货能力": {
+    "message": "供应商供货能力",
+    "description": "The label for category 供应商供货能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.待审核物料(一级)": {
+    "message": "待审核物料(一级)",
+    "description": "The label for category 待审核物料(一级) in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.待审核物料(二级)": {
+    "message": "待审核物料(二级)",
+    "description": "The label for category 待审核物料(二级) in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.待审核物料变更(一级)": {
+    "message": "待审核物料变更(一级)",
+    "description": "The label for category 待审核物料变更(一级) in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.待审核物料变更(二级)": {
+    "message": "待审核物料变更(二级)",
+    "description": "The label for category 待审核物料变更(二级) in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.待编辑物料": {
+    "message": "待编辑物料",
+    "description": "The label for category 待编辑物料 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.物料查询": {
+    "message": "物料查询",
+    "description": "The label for category 物料查询 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.送样管理": {
+    "message": "送样管理",
+    "description": "The label for category 送样管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.送样管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 送样管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.送样协同": {
+    "message": "送样协同",
+    "description": "The label for category 送样协同 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.送样协同.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 送样协同 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.库存管理": {
+    "message": "库存管理",
+    "description": "The label for category 库存管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.库存管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 库存管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.商品管理": {
+    "message": "商品管理",
+    "description": "The label for category 商品管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.商品管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 商品管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.仓位管理": {
+    "message": "仓位管理",
+    "description": "The label for category 仓位管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.仓位管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 仓位管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.价格管理": {
+    "message": "价格管理",
+    "description": "The label for category 价格管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.价格管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 价格管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.分销管理": {
+    "message": "分销管理",
+    "description": "The label for category 分销管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.分销管理.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 分销管理 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.会员能力": {
+    "message": "会员能力",
+    "description": "The label for category 会员能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.会员能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 会员能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.供应商能力": {
+    "message": "供应商能力",
+    "description": "The label for category 供应商能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.供应商能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 供应商能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.客户能力": {
+    "message": "客户能力",
+    "description": "The label for category 客户能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.客户能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 客户能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.商城能力": {
+    "message": "商城能力",
+    "description": "The label for category 商城能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.商城能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 商城能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.店铺能力": {
+    "message": "店铺能力",
+    "description": "The label for category 店铺能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.店铺能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 店铺能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.渠道能力": {
+    "message": "渠道能力",
+    "description": "The label for category 渠道能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.渠道能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 渠道能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.采购能力": {
+    "message": "采购能力",
+    "description": "The label for category 采购能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.采购能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 采购能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.交易能力": {
+    "message": "交易能力",
+    "description": "The label for category 交易能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.交易能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 交易能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.订单能力": {
+    "message": "订单能力",
+    "description": "The label for category 订单能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.订单能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 订单能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.质量能力": {
+    "message": "质量能力",
+    "description": "The label for category 质量能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.质量能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 质量能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.合同能力": {
+    "message": "合同能力",
+    "description": "The label for category 合同能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.合同能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 合同能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.支付能力": {
+    "message": "支付能力",
+    "description": "The label for category 支付能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.支付能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 支付能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.结算能力": {
+    "message": "结算能力",
+    "description": "The label for category 结算能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.结算能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 结算能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.售后能力": {
+    "message": "售后能力",
+    "description": "The label for category 售后能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.售后能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 售后能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.营销能力": {
+    "message": "营销能力",
+    "description": "The label for category 营销能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.营销能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 营销能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.物流能力": {
+    "message": "物流能力",
+    "description": "The label for category 物流能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.物流能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 物流能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.加工能力": {
+    "message": "加工能力",
+    "description": "The label for category 加工能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.加工能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 加工能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.内容能力": {
+    "message": "内容能力",
+    "description": "The label for category 内容能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.内容能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 内容能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.系统能力": {
+    "message": "系统能力",
+    "description": "The label for category 系统能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.系统能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 系统能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.数据能力": {
+    "message": "数据能力",
+    "description": "The label for category 数据能力 in sidebar ProPlatformSidebar"
+  },
+  "sidebar.ProPlatformSidebar.category.数据能力.link.generated-index.description": {
+    "message": "示例描述",
+    "description": "The generated-index page description for category 数据能力 in sidebar ProPlatformSidebar"
+  }
+}

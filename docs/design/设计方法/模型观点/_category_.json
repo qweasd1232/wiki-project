@@ -1,0 +1,10 @@
+{
+  "label": "模型观点",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

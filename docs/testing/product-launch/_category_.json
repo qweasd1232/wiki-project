@@ -1,0 +1,10 @@
+{
+  "label": "产品上线",
+  "position": 100,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

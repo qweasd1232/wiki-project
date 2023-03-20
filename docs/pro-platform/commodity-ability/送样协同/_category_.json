@@ -1,0 +1,10 @@
+{
+  "label": "送样协同",
+  "position": 25,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

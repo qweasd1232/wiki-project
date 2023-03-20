@@ -1,0 +1,10 @@
+{
+  "label": "测试新手村",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "测试新手指引"
+  }
+}

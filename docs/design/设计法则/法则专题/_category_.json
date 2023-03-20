@@ -1,0 +1,10 @@
+{
+  "label": "法则专题",
+  "position": 60,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

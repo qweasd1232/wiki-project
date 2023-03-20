@@ -1,0 +1,10 @@
+{
+  "label": "数据能力",
+  "position": 105,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

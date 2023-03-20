@@ -1,0 +1,10 @@
+{
+  "label": "MES生产信息化",
+  "position": 85,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

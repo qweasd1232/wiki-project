@@ -1,0 +1,10 @@
+{
+  "label": "业务架构",
+  "position": 40,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

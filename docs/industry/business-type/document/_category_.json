@@ -1,0 +1,10 @@
+{
+  "label": "文档协作",
+  "position": 65,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

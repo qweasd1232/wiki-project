@@ -1,0 +1,10 @@
+{
+  "label": "整合力",
+  "position": 80,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

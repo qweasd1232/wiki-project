@@ -1,0 +1,10 @@
+{
+  "label": "领导力",
+  "position": 70,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

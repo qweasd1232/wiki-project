@@ -1,0 +1,12 @@
+
+.main table {
+    font-size: 12px;
+}
+/* 活动类型 */
+.main table td:first-of-type {
+    font-weight: 600;
+}
+/* 活动标签 */
+/* .main table td:nth-of-type(2) {
+    font-weight: 600;
+} */

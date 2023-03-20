@@ -1,0 +1,10 @@
+{
+  "label": "示例页面",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

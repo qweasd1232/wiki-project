@@ -1,0 +1,10 @@
+{
+  "label": "广告投放",
+  "position": 55,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

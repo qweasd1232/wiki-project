@@ -1,0 +1,10 @@
+{
+  "label": "用户调研",
+  "position": 30,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

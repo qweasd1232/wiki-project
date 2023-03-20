@@ -1,0 +1,10 @@
+{
+  "label": "低代码开发平台",
+  "position": 30,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "性能测试",
+  "position": 5,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "性能测试"
+  }
+}

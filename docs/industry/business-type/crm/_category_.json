@@ -1,0 +1,10 @@
+{
+  "label": "CRM 客户关系管理",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "CRM 客户关系管理的页面列表"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "ERP 企业资源管理",
+  "position": 35,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "ERP 企业资源管理的页面列表"
+  }
+}

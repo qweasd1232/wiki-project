@@ -1,0 +1,70 @@
+{
+  "title": {
+    "message": "团队知识库",
+    "description": "The title in the navbar"
+  },
+  "item.label.知识库指南": {
+    "message": "知识库指南",
+    "description": "Navbar item with label 知识库指南"
+  },
+  "item.label.工具方法": {
+    "message": "工具方法",
+    "description": "Navbar item with label 工具方法"
+  },
+  "item.label.行业竞品": {
+    "message": "行业竞品",
+    "description": "Navbar item with label 行业竞品"
+  },
+  "item.label.商业研究": {
+    "message": "商业研究",
+    "description": "Navbar item with label 商业研究"
+  },
+  "item.label.需求分析": {
+    "message": "需求分析",
+    "description": "Navbar item with label 需求分析"
+  },
+  "item.label.需求设计": {
+    "message": "需求设计",
+    "description": "Navbar item with label 需求设计"
+  },
+  "item.label.需求交付": {
+    "message": "需求交付",
+    "description": "Navbar item with label 需求交付"
+  },
+  "item.label.技术实现": {
+    "message": "技术实现",
+    "description": "Navbar item with label 技术实现"
+  },
+  "item.label.验收测试": {
+    "message": "验收测试",
+    "description": "Navbar item with label 验收测试"
+  },
+  "item.label.验证改良": {
+    "message": "验证改良",
+    "description": "Navbar item with label 验证改良"
+  },
+  "item.label.瓴犀业务": {
+    "message": "瓴犀业务",
+    "description": "Navbar item with label 瓴犀业务"
+  },
+  "item.label.能力中心": {
+    "message": "能力中心",
+    "description": "Navbar item with label 能力中心"
+  },
+  "item.label.👨🏻‍🎓 相关链接": {
+    "message": "👨🏻‍🎓 相关链接",
+    "description": "Navbar item with label 👨🏻‍🎓 相关链接"
+  },
+  "item.label.数商云设计系统": {
+    "message": "数商云设计系统",
+    "description": "Navbar item with label 数商云设计系统"
+  },
+  "item.label.前端技术部": {
+    "message": "前端技术部",
+    "description": "Navbar item with label 前端技术部"
+  },
+  "item.label.Kpay设计系统": {
+    "message": "Kpay设计系统",
+    "description": "Navbar item with label Kpay设计系统"
+  }
+}

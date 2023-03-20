@@ -1,0 +1,10 @@
+{
+  "label": "产品现状走查",
+  "position": 100,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

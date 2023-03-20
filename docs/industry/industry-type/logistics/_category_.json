@@ -1,0 +1,10 @@
+{
+  "label": "物流仓储",
+  "position": 45,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

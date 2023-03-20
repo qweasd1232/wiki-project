@@ -1,0 +1,74 @@
+.main table {
+    font-size: 12px;
+}
+/* 能力框架 */
+.main table th:first-of-type {
+    width: 16px;
+    font-weight: 600;
+}
+.main table td:first-of-type {
+    font-weight: 600;
+}
+/* 能力项目 */
+.main table th:nth-of-type(2) {
+    width: 16px;
+    font-weight: 600;
+}
+/* level 1 */
+.main table th:nth-of-type(3) {
+    width: 120px;
+}
+.main table td:nth-of-type(3) {
+    background-color: rgba(0, 169, 143, 0.08);
+}
+.main table th:nth-of-type(4) {
+    width: 240px;
+} 
+
+
+/* level 2 */
+.main table th:nth-of-type(5) {
+    width: 120px;
+}
+.main table td:nth-of-type(5) {
+    background-color: rgba(0, 169, 143, 0.08);
+}
+.main table th:nth-of-type(6) {
+    width: 240px;
+} 
+
+/* level 3 */
+.main table th:nth-of-type(7) {
+    width: 120px;
+}
+.main table td:nth-of-type(7) {
+    background-color: rgba(0, 169, 143, 0.08);
+}
+
+.main table th:nth-of-type(8) {
+    width: 240px;
+} 
+
+/* level 4 */
+.main table th:nth-of-type(9) {
+    width: 120px;
+}
+.main table td:nth-of-type(9) {
+    background-color: rgba(0, 169, 143, 0.08);
+}
+
+.main table th:nth-of-type(10) {
+    width: 240px;
+} 
+
+/* level 5 */
+.main table th:nth-of-type(11) {
+    width: 120px;
+}
+.main table td:nth-of-type(11) {
+    background-color: rgba(0, 169, 143, 0.08);
+}
+.main table th:nth-of-type(12) {
+    width: 240px;
+} 
+

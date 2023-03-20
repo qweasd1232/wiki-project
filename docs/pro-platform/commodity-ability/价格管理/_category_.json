@@ -1,0 +1,10 @@
+{
+  "label": "价格管理",
+  "position": 45,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

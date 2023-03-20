@@ -1,0 +1,25 @@
+{
+    /** 编辑器背景 */
+        "window.titleBarStyle": "custom", //首先把标题栏改为非原生的
+        "background.enabled": true,
+        "background.useDefault": false,
+        "background.customImages": [
+           //  这个是图片地址 注意这个是左斜杠
+            "C:/Users/shushangyun/Pictures/backgroup.jpg"
+        ],
+        //这些都像css那样可以改样式的
+        "background.style": {
+            "content": "''",
+            "pointer-events": "none",
+            "position": "absolute",
+            "z-index": "99999",
+            "width": "100%",
+            "height": "100%",
+            "background-position": "cover",
+            "background-repeat": "no-repeat",
+            "background-size": "cover", 
+            "opacity": 0.2  //这个是设置透明度
+        },
+        "backgroundCover.autoStatus": true,
+        "backgroundCover.imagePath": "C:/Users/shushangyun/Pictures/backgroup.jpg"
+   }

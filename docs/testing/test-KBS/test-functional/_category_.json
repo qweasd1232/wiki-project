@@ -1,0 +1,10 @@
+{
+  "label": "功能测试知识库",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "功能测试知识库"
+  }
+}

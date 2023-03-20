@@ -1,0 +1,10 @@
+{
+  "label": "安全合规",
+  "position": 75,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

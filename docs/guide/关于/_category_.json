@@ -1,0 +1,10 @@
+{
+  "label": "关于知识库",
+  "position": 50,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

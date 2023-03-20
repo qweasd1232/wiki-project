@@ -1,0 +1,10 @@
+{
+  "label": "设计方法",
+  "position": 60,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "接口基础知识",
+  "position": 2,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "接口基础知识"
+  }
+}

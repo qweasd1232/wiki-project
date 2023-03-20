@@ -1,0 +1,10 @@
+{
+  "label": "建筑地产",
+  "position": 60,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

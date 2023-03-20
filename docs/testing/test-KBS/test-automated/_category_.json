@@ -1,0 +1,10 @@
+{
+  "label": "自动化测试知识库",
+  "position": 2,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "自动化测试知识库"
+  }
+}

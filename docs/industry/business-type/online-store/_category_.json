@@ -1,0 +1,10 @@
+{
+  "label": "在线商城",
+  "position": 5,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "在线商城的页面列表"
+  }
+}

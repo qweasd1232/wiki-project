@@ -1,0 +1,90 @@
+//对比说明-双列
+.compare {
+  display: grid;
+  grid-auto-columns: auto;
+  grid-column-gap: 48px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 8px;
+  margin-right: 0px;
+  margin-bottom: 24px;
+  margin-left: 0px;
+}
+.compare-item {
+  display: block;
+}
+.compare-item-title {
+  display: flex;
+  align-items: center;
+  -webkit-box-align: center;
+}
+//图片样式
+.compare-preview-image {
+  width: 100%;
+  border: 1px solid #e3e4e5;
+  //box-shadow: 0 8px 16px 0 rgba(37, 45, 55, 0.08);
+}
+//图片区块
+.image-block {
+  display: block;
+  width: 1fr;
+  padding: 16px;
+  background-color: #f5f6f7;
+}
+//文字区块-开始
+.text-block {
+  display: block;
+  width: 1fr;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 24px;
+  background-color: #f5f6f7;
+}
+.text-block p {
+  display: block;
+  margin: 0px;
+  color: #454d64;
+  font-size: 20px;
+}
+//文字区块-结束
+.line-green {
+  height: 4px;
+  margin-top: 8px;
+  background-color: #00a98f;
+}
+.line-red {
+  height: 4px;
+  margin-top: 8px;
+  background-color: #e34d59;
+}
+.heading-do {
+  display: block;
+  margin-top: 12px;
+  margin-bottom: 4px;
+  color: #00a98f;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+}
+.heading-do-icon {
+  display: inline-block;
+  width: 0px;
+}
+.heading-not-icon {
+  display: inline-block;
+  width: 0px;
+}
+.heading-not {
+  margin-top: 12px;
+  margin-bottom: 4px;
+  color: #e34d59;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+}
+.item-describe {
+  margin-top: 4px;
+  color: #5c626a;
+  font-size: 16px;
+  line-height: 20px;
+}

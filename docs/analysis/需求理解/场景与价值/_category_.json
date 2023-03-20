@@ -1,0 +1,10 @@
+{
+  "label": "场景与价值",
+  "position": 30,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "最重要的能力，是提出一个好的解决方案"
+  }
+}

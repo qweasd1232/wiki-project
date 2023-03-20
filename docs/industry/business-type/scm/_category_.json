@@ -1,0 +1,10 @@
+{
+  "label": "SCM 供应链",
+  "position": 35,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "SCM 供应链的页面列表"
+  }
+}

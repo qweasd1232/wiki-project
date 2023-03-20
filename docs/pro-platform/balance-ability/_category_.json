@@ -1,0 +1,10 @@
+{
+  "label": "结算能力",
+  "position": 75,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

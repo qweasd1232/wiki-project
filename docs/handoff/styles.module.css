@@ -1,0 +1,40 @@
+.main table {
+    font-size: 12px;
+    
+}
+/* 节点 */
+.main table th:first-of-type {
+    width: 56px;
+    height: 24px;
+}
+/* 任务 */
+.main table th:nth-of-type(2) {
+    width: 240px;
+    /*font-weight: 600;*/
+}
+/* 问题 */
+.main table td:nth-of-type(3) {
+    width: 240px;
+    /*font-weight: 600;*/
+}
+/* 建议 */
+.main table th:nth-of-type(4) {
+    width: 320px;
+} 
+/* 作用 */
+.main table th:nth-of-type(5) {
+    width: 200px;
+} 
+/* 输出 */
+.main table th:nth-of-type(6) {
+    width: 200px;
+} 
+/* 不应 */
+.main table th:nth-of-type(7) {
+    width: 200px;
+} 
+/* 备注 */
+.main table th:nth-of-type(8) {
+    width: 200px;
+} 
+

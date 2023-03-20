@@ -1,0 +1,10 @@
+{
+  "label": "设计总结",
+  "position": 30,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "学习总结和提升自己。"
+  }
+}

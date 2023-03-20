@@ -1,0 +1,10 @@
+{
+  "label": "展示模拟",
+  "position": 60,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

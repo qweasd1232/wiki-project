@@ -1,0 +1,10 @@
+{
+  "label": "设计专题",
+  "position": 25,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "针对不用业务和需求场景，给予一些设计和流程规范的参考性意见。"
+  }
+}

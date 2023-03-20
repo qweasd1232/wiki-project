@@ -1,0 +1,10 @@
+{
+  "label": "农业",
+  "position": 20,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

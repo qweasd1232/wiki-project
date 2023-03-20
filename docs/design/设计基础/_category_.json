@@ -1,0 +1,10 @@
+{
+  "label": "设计基础",
+  "position": 70,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

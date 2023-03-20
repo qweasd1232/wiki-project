@@ -1,0 +1,10 @@
+{
+  "label": "测试知识库",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "测试知识库"
+  }
+}

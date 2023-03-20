@@ -1,0 +1,24 @@
+.docItemContainer header + *,
+.docItemContainer article > *:first-child {
+  margin-top: 0;
+}
+
+@media (min-width: 997px) {
+  .docItemCol {
+    max-width: 100% !important;
+  }
+}
+
+.docsInfo {
+  width: 100%;
+  display: flex;
+}
+
+.innerInfo {
+  display: flex;
+  text-align: left;
+}
+
+.docLastUpdatedAt {
+  font-weight: bold;
+}

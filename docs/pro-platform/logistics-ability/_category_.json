@@ -1,0 +1,10 @@
+{
+  "label": "物流能力",
+  "position": 85,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

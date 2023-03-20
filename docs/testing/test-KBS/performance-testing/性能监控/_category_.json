@@ -1,0 +1,10 @@
+{
+  "label": "性能监控",
+  "position": 5,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "性能监控"
+  }
+}

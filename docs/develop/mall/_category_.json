@@ -1,0 +1,10 @@
+{
+  "label": "商城项目文档",
+  "position": 9,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

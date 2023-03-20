@@ -1,0 +1,10 @@
+{
+  "label": "医疗健康",
+  "position": 40,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

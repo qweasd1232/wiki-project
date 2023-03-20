@@ -1,0 +1,10 @@
+{
+  "label": "通用软件",
+  "position": 50,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

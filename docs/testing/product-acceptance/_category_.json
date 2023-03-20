@@ -1,0 +1,10 @@
+{
+  "label": "产品验收",
+  "position": 90,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

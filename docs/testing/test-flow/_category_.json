@@ -1,0 +1,10 @@
+{
+  "label": "测试流程",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "测试流程"
+  }
+}

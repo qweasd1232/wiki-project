@@ -1,0 +1,10 @@
+{
+  "label": "餐饮",
+  "position": 15,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "页面列表"
+  }
+}

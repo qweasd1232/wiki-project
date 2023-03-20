@@ -1,0 +1,10 @@
+{
+  "label": "必备工具",
+  "position": 40,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

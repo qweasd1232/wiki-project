@@ -1,0 +1,15 @@
+table {
+    display: table !important;
+    width: 100%;
+}
+
+// 表格中文字的对齐方式
+// 表头
+table th {
+    text-align: left;
+}
+
+// 表格单元
+table td {
+    text-align: left;
+}

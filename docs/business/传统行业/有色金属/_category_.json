@@ -1,0 +1,10 @@
+{
+  "label": "有色金属",
+  "position": 50,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

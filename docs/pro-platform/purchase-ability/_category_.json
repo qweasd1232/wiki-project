@@ -1,0 +1,10 @@
+{
+  "label": "采购能力",
+  "position": 45,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "示例描述"
+  }
+}

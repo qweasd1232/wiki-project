@@ -1,0 +1,10 @@
+{
+  "label": "概念探索",
+  "position": 28,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

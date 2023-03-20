@@ -1,0 +1,10 @@
+{
+  "label": "行业指标体系",
+  "position": 100,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "--"
+  }
+}

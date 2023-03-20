@@ -1,0 +1,10 @@
+{
+  "label": "理解业务",
+  "position": 20,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "每一个B端设计师都应该是半个行业专家"
+  }
+}
